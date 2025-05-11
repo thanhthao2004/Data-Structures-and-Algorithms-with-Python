@@ -1,0 +1,6 @@
+001, Nguyen Van A, 4.5
+002, Nguyen Van B,
+003, Nguyen Van C, 9
+004, Nguyen Van D, 5
+005, Nguyen Van E, 5.5
+006, Nguyen Van F, 10
