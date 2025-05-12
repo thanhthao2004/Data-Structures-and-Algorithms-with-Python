@@ -41,14 +41,14 @@ class bst:
                 print(f"Thêm vào trái của {self.data.masv}: {data}")
                 return True
             else:
-                self.left.add_node(data)
+                return self.left.add_node(data)
         elif self.data.masv < data.masv:
             if self.right is None:
                 self.right = bst(data)
                 print(f"Thêm vào phải của {self.data.masv}: {data}")
                 return True
             else:
-                self.right.add_node(data)
+                return self.right.add_node(data)
 
     # hướng làm: mở file, dùng 'r' và endcoding = 'utf-8'
     # chạy vòng lặp duyệt từng phần tử i trong file
@@ -183,7 +183,8 @@ while True:
         kq = ql.find_node_1_child()
         with open('MSSV_FindLeaf.txt','w') as file:
             for i in kq:
-                file.write(str(i))
+                file.write(str(i) + '\n')
+        print("Đã in file")
     elif choose == 8:
         n = int(input("Nhập số lượng sinh viên muốn thêm: "))
         for i in range(n):

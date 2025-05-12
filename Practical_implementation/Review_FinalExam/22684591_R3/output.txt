@@ -1,0 +1,10 @@
+Mã thiết bị: 25, tên thiết bị: USB Drive, giá thiết bị: 120000.0, số lượng: 30, năm sản xuất: 2025
+Mã thiết bị: 50, tên thiết bị: Webcam, giá thiết bị: 300000.0, số lượng: 15, năm sản xuất: 2024
+Mã thiết bị: 100, tên thiết bị: Mouse, giá thiết bị: 80000.0, số lượng: 20, năm sản xuất: 2024
+Mã thiết bị: 110, tên thiết bị: Tablet, giá thiết bị: 3500000.0, số lượng: 7, năm sản xuất: 2022
+Mã thiết bị: 125, tên thiết bị: Speaker, giá thiết bị: 500000.0, số lượng: 8, năm sản xuất: 2023
+Mã thiết bị: 150, tên thiết bị: Keyboard, giá thiết bị: 150000.0, số lượng: 10, năm sản xuất: 2023
+Mã thiết bị: 160, tên thiết bị: Smartwatch, giá thiết bị: 1500000.0, số lượng: 9, năm sản xuất: 2024
+Mã thiết bị: 175, tên thiết bị: Headphone, giá thiết bị: 700000.0, số lượng: 12, năm sản xuất: 2025
+Mã thiết bị: 200, tên thiết bị: Monitor, giá thiết bị: 2500000.0, số lượng: 5, năm sản xuất: 2022
+Mã thiết bị: 250, tên thiết bị: Printer, giá thiết bị: 1800000.0, số lượng: 2, năm sản xuất: 2021

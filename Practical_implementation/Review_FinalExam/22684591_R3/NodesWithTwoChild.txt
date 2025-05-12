@@ -1,0 +1,3 @@
+Mã thiết bị: 150, tên thiết bị: Keyboard, giá thiết bị: 150000.0, số lượng: 10, năm sản xuất: 2023
+Mã thiết bị: 100, tên thiết bị: Mouse, giá thiết bị: 80000.0, số lượng: 20, năm sản xuất: 2024
+Mã thiết bị: 200, tên thiết bị: Monitor, giá thiết bị: 2500000.0, số lượng: 5, năm sản xuất: 2022
